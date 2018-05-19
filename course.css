@@ -28,3 +28,12 @@ h1,h2{
 	 font-family: LittleStar;
     src: url(font/Little_Star.ttf);
 }
+#main{
+    width: 80%; display: block; margin: 20px auto;
+}
+.set{
+    float: left;
+}
+.set2{
+    float: right;
+}
