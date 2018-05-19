@@ -1,0 +1,30 @@
+@font-face {
+    font-family: LittleStar;
+    src: url(font/Little_Star.ttf);
+}
+#logo {
+    margin: auto;
+    display: block;
+}
+.menu {
+    float: left;
+    padding: 2%;
+    margin-left: 15px;
+    border-style: hidden;
+    background-color: gainsboro;
+    font-family: LittleStar;
+    color: black;
+    text-align: center;
+    font-size: 15pt;
+    text-decoration: unset;
+}
+#menubar {
+    margin: 0 auto;
+    width: 80%;
+    background-color: gainsboro;
+    overflow: hidden;
+}
+h1,h2{
+	 font-family: LittleStar;
+    src: url(font/Little_Star.ttf);
+}
